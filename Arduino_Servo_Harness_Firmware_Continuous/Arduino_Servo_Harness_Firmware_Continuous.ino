@@ -1,6 +1,6 @@
 /*
   Arduino Servo Harness Firmware
-  Mike Angus 2021/22
+  Alejandro Pascual San Roman (bdh532) || 2023
 
   Written to form a basis for the MSc Intelligent Robotics robot gripper project.
   Provides various basic functions which may be extended, modified or replaced as desired.
