@@ -64,7 +64,7 @@
 
 | File                                                                                                                                                                                                         | Summary                         |
 | ---                                                                                                                                                                                                          | ---                             |
-| [Arduino_Servo_Harness_Firmware_Continuous.ino](https://github.com/Alexpascual28/rash_servo_harness.git/blob/master/Arduino_Servo_Harness_Firmware_Continuous/Arduino_Servo_Harness_Firmware_Continuous.ino) | <code>► INSERT-TEXT-HERE</code> |
+| [Arduino_Servo_Harness_Firmware_Continuous.ino](https://github.com/Alexpascual28/rash_servo_harness.git/blob/master/Arduino_Servo_Harness_Firmware_Continuous/Arduino_Servo_Harness_Firmware_Continuous.ino) | <code> </code> |
 
 </details>
 
@@ -72,7 +72,7 @@
 
 | File                                                                                                                                                                        | Summary                         |
 | ---                                                                                                                                                                         | ---                             |
-| [Arduino_Servo_Harness_Firmware.ino](https://github.com/Alexpascual28/rash_servo_harness.git/blob/master/Arduino_Servo_Harness_Firmware/Arduino_Servo_Harness_Firmware.ino) | <code>► INSERT-TEXT-HERE</code> |
+| [Arduino_Servo_Harness_Firmware.ino](https://github.com/Alexpascual28/rash_servo_harness.git/blob/master/Arduino_Servo_Harness_Firmware/Arduino_Servo_Harness_Firmware.ino) | <code> </code> |
 
 </details>
 
